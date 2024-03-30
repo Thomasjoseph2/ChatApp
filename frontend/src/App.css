@@ -3,7 +3,7 @@
 .App {
   min-height: 100vh;
   display: flex;
-  background-image: url("./background.jpg");
+  background-image: url("./the-ultimate-live-chat-features-list.webp");
   background-position: center;
   background-size: cover;
 }
@@ -13,7 +13,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(136, 136, 136, 0.281);
+  background: rgba(39, 29, 29, 0.281);
 }
 
 /* Handle on hover */
