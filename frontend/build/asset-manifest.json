@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a65ee16a.css",
+    "main.js": "/static/js/main.9d5d929f.js",
+    "static/media/the-ultimate-live-chat-features-list.webp": "/static/media/the-ultimate-live-chat-features-list.4daa1490bc53b354171c.webp",
+    "index.html": "/index.html",
+    "main.a65ee16a.css.map": "/static/css/main.a65ee16a.css.map",
+    "main.9d5d929f.js.map": "/static/js/main.9d5d929f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65ee16a.css",
+    "static/js/main.9d5d929f.js"
+  ]
+}
